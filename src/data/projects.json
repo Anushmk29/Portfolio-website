@@ -1,26 +1,26 @@
 [
   {
-    "title": "Project A",
+    "title": "Basketball Landing Page",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
+    "description": "This is a practice project made to learn the languages by building a landing page and also used Gsap for animations.",
+    "skills": ["Html", "CSS", "Java Script","Gsap"],
     "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "https://github.com/Anushmk29/Frontend-Work"
   },
   {
-    "title": "Project B",
+    "title": "MERN Chat app",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
+    "description": "This project that I made for the skolar comapny as an intern , and tried to optimize the routes and verification tasks",
+    "skills": ["React", "Express", "Node", "MongoDB"],
     "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "https://github.com/Anushmk29/MERN_CHAT_APPLI"
   },
   {
-    "title": "Project C",
+    "title": "Profile Page ",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
+    "description": "This project was made to learn about how the state management works and how user will show his/her information to other.",
+    "skills": ["React", "tailwid", "reduxToolkit"],
     "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "https://github.com/Anushmk29/ProfilePage"
   }
 ]
